@@ -1,0 +1,22 @@
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  background-color:  #7e9a9a;
+  padding: 10px;
+}
+.grid-container > div {
+  background-color: #F2F9DC;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 30px;
+}
+
+body{
+	background-color:  #F2F9DC;
+}	
+h1{
+color:  #034f84;
+} 
